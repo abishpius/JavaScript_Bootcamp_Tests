@@ -35,4 +35,4 @@ IV	4
 I	1
 All roman numerals answers should be provided in upper-case.
 
-### Solution: Roman_Numeral_Calculator.js
+### Solution: Roman_Numeral_Converter.js
